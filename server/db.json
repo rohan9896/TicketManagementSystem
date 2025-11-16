@@ -1,0 +1,235 @@
+{
+  "tickets": [
+    {
+      "id": "TICK-001",
+      "title": "Fix login bug",
+      "ticketId": "TICK-001",
+      "assignedUserImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2",
+      "assignedUserName": "User 2",
+      "status": "Open",
+      "assignedUserId": "user2",
+      "ticket_desc": "Users are unable to log in due to authentication error",
+      "due_date": "2025-11-20"
+    },
+    {
+      "id": "TICK-002",
+      "title": "Implement user dashboard",
+      "ticketId": "TICK-002",
+      "assignedUserImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2",
+      "assignedUserName": "User 2",
+      "status": "In Progress",
+      "assignedUserId": "user2",
+      "ticket_desc": "Create a new dashboard page for user profile management",
+      "due_date": "2025-11-25"
+    },
+    {
+      "id": "TICK-003",
+      "title": "Update API documentation",
+      "ticketId": "TICK-003",
+      "assignedUserImage": "https://via.placeholder.com/150/00FF00/FFFFFF?text=User3",
+      "assignedUserName": "User 3",
+      "status": "Closed",
+      "assignedUserId": "user3",
+      "ticket_desc": "Update the API docs to reflect recent endpoint changes",
+      "due_date": "2025-11-15"
+    },
+    {
+      "id": "TICK-004",
+      "title": "Optimize database queries",
+      "ticketId": "TICK-004",
+      "assignedUserImage": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=User4",
+      "assignedUserName": "User 4",
+      "status": "Open",
+      "assignedUserId": "user4",
+      "ticket_desc": "Improve query performance for user data retrieval",
+      "due_date": "2025-11-30"
+    },
+    {
+      "id": "TICK-005",
+      "title": "Add unit tests",
+      "ticketId": "TICK-005",
+      "assignedUserImage": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=User5",
+      "assignedUserName": "User 5",
+      "status": "In Progress",
+      "assignedUserId": "user5",
+      "ticket_desc": "Write comprehensive unit tests for the authentication module",
+      "due_date": "2025-12-05"
+    },
+    {
+      "id": "TICK-1763282857503",
+      "title": "New ticket",
+      "ticket_desc": "ijuhygtfcgvhb",
+      "assignedUserId": "user2",
+      "due_date": "2021-12-12",
+      "status": "In Progress",
+      "assignedUserImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2",
+      "ticketId": "TICK-1763282857503"
+    }
+  ],
+  "comments": [
+    {
+      "ticketId": "TICK-001",
+      "assigneduserId": "user1",
+      "assignedUserImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1",
+      "username": "User 1",
+      "comment": "This login issue seems critical. Let's prioritize fixing it."
+    },
+    {
+      "ticketId": "TICK-001",
+      "assigneduserId": "user2",
+      "assignedUserImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2",
+      "username": "User 2",
+      "comment": "I've identified the root cause - it's in the authentication service. Working on a fix."
+    },
+    {
+      "ticketId": "TICK-001",
+      "assigneduserId": "user3",
+      "assignedUserImage": "https://via.placeholder.com/150/00FF00/FFFFFF?text=User3",
+      "username": "User 3",
+      "comment": "Need to add error handling for failed login attempts."
+    },
+    {
+      "ticketId": "TICK-002",
+      "assigneduserId": "user2",
+      "assignedUserImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2",
+      "username": "User 2",
+      "comment": "The dashboard design looks good. Need to add user preferences section."
+    },
+    {
+      "ticketId": "TICK-002",
+      "assigneduserId": "user4",
+      "assignedUserImage": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=User4",
+      "username": "User 4",
+      "comment": "Have you considered adding widgets for quick stats overview?"
+    },
+    {
+      "ticketId": "TICK-002",
+      "assigneduserId": "user1",
+      "assignedUserImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1",
+      "username": "User 1",
+      "comment": "Great progress! Let's schedule a review meeting for next week."
+    },
+    {
+      "ticketId": "TICK-003",
+      "assigneduserId": "user3",
+      "assignedUserImage": "https://via.placeholder.com/150/00FF00/FFFFFF?text=User3",
+      "username": "User 3",
+      "comment": "API docs updated successfully. All endpoints now documented."
+    },
+    {
+      "ticketId": "TICK-003",
+      "assigneduserId": "user5",
+      "assignedUserImage": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=User5",
+      "username": "User 5",
+      "comment": "Should we add more examples for the authentication endpoints?"
+    },
+    {
+      "ticketId": "TICK-003",
+      "assigneduserId": "user2",
+      "assignedUserImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2",
+      "username": "User 2",
+      "comment": "Documentation looks comprehensive. Ready to merge."
+    },
+    {
+      "ticketId": "TICK-004",
+      "assigneduserId": "user4",
+      "assignedUserImage": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=User4",
+      "username": "User 4",
+      "comment": "Query optimization reduced response time by 40%. Great improvement!"
+    },
+    {
+      "ticketId": "TICK-004",
+      "assigneduserId": "user1",
+      "assignedUserImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1",
+      "username": "User 1",
+      "comment": "Excellent work! Have you added indexes to the database?"
+    },
+    {
+      "ticketId": "TICK-004",
+      "assigneduserId": "user3",
+      "assignedUserImage": "https://via.placeholder.com/150/00FF00/FFFFFF?text=User3",
+      "username": "User 3",
+      "comment": "Need to test with large datasets to ensure scalability."
+    },
+    {
+      "ticketId": "TICK-005",
+      "assigneduserId": "user5",
+      "assignedUserImage": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=User5",
+      "username": "User 5",
+      "comment": "Unit tests are now covering 95% of the authentication module."
+    },
+    {
+      "ticketId": "TICK-005",
+      "assigneduserId": "user2",
+      "assignedUserImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2",
+      "username": "User 2",
+      "comment": "What about edge cases? Have those been covered?"
+    },
+    {
+      "ticketId": "TICK-005",
+      "assigneduserId": "user4",
+      "assignedUserImage": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=User4",
+      "username": "User 4",
+      "comment": "Great coverage! Let's also add integration tests."
+    },
+    {
+      "id": "4d59",
+      "ticketId": "TICK-001",
+      "assigneduserId": "user1",
+      "assignedUserImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1",
+      "username": "User 1",
+      "comment": "This is my comment"
+    },
+    {
+      "id": "b8f3",
+      "ticketId": "TICK-004",
+      "assigneduserId": "user1",
+      "assignedUserImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1",
+      "username": "User 1",
+      "comment": "Hii"
+    },
+    {
+      "id": "4fe4",
+      "ticketId": "TICK-001",
+      "assigneduserId": "user1",
+      "assignedUserImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1",
+      "username": "User 1",
+      "comment": "kmnjbh"
+    },
+    {
+      "id": "1efc",
+      "ticketId": "TICK-001",
+      "assigneduserId": "user1",
+      "assignedUserImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1",
+      "username": "User 1",
+      "comment": "New comment..."
+    }
+  ],
+  "users": [
+    {
+      "userId": "user1",
+      "username": "User 1",
+      "userImage": "https://via.placeholder.com/150/0000FF/FFFFFF?text=User1"
+    },
+    {
+      "userId": "user2",
+      "username": "User 2",
+      "userImage": "https://via.placeholder.com/150/FF0000/FFFFFF?text=User2"
+    },
+    {
+      "userId": "user3",
+      "username": "User 3",
+      "userImage": "https://via.placeholder.com/150/00FF00/FFFFFF?text=User3"
+    },
+    {
+      "userId": "user4",
+      "username": "User 4",
+      "userImage": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=User4"
+    },
+    {
+      "userId": "user5",
+      "username": "User 5",
+      "userImage": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=User5"
+    }
+  ]
+}
